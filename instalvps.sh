@@ -15,7 +15,7 @@ VPS_LIST=(
 )
 
 # Password SSH
-PASSWORD="VPSNEW@2BULAN"
+PASSWORD="KonTol707d"
 
 # Cek apakah expect tersedia
 if ! command -v expect &> /dev/null; then
